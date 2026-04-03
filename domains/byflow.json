@@ -1,0 +1,10 @@
+{
+  "description": "ByFlow — Vive Cantando con ByFlow, karaoke inteligente",
+  "owner": {
+    "username": "ART449",
+    "email": "elricondelgeekdearturo@gmail.com"
+  },
+  "records": {
+    "CNAME": "byflowapp.up.railway.app"
+  }
+}
